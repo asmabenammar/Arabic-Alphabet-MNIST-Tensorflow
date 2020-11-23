@@ -1,0 +1,2 @@
+# arabic-mnist
+arabic mnist
